@@ -1,5 +1,4 @@
-## Hi, My Name Is Eli Lopez
-
+## Hi, I'm Eli 👋
 ### Data Scientist, Life-learner
 
 Welcome to my github page! Here are some of my favorite projects:
