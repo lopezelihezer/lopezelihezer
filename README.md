@@ -6,8 +6,8 @@ Welcome to my github page! Here are some of my favorite projects:
 - [NLP Readme Project](https://github.com/CANDLES-NLP/readme-nlp-classification) (Team Project)
 - [Zillow Regression Project](https://github.com/lopezelihezer/zillow_regression_project) (First Regression Project)
 
-Many more can be found in my [Repos](https://github.com/lopezelihezer?tab=repositories)
 
+Many more can be found in my [Repos](https://github.com/lopezelihezer?tab=repositories)
 
 
 #### Connect with me! : [LinkedIn](https://www.linkedin.com/in/lopezelihezer/)
