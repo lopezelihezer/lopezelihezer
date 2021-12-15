@@ -12,10 +12,10 @@ Many more can be found in my [Repos](https://github.com/lopezelihezer?tab=reposi
 
 #### Connect with me! : [LinkedIn](https://www.linkedin.com/in/lopezelihezer/)
 
-Languages: 
+### Languages: 
 🐍 Python - 🥞 SQL - ˃_ Command Line - 📉 Tableau - ✨ Spark
 
-Libraries:
+### Libraries:
 🐼 Pandas - 🧪 Scipy - 🌊 Seaborn - 📊 Matplotlib - 👩‍🔬 Scikit learn - 🔢 Numpy
 
  
