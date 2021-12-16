@@ -10,12 +10,12 @@ Welcome to my github page! Here are some of my favorite projects:
 Many more can be found in my [Repos](https://github.com/lopezelihezer?tab=repositories)
 
 
-#### Connect with me! : [LinkedIn](https://www.linkedin.com/in/lopezelihezer/)
+### Connect with me! : [LinkedIn](https://www.linkedin.com/in/lopezelihezer/)
 
-### Languages: 
+#### Languages: 
 🐍 Python - 🥞 SQL - ˃_ Command Line - 📉 Tableau - ✨ Spark
 
-### Libraries:
+#### Libraries:
 🐼 Pandas - 🧪 Scipy - 🌊 Seaborn - 📊 Matplotlib - 👩‍🔬 Scikit learn - 🔢 Numpy
 
  
