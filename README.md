@@ -1,4 +1,4 @@
-## Hi, my name's Eli 👋
+## Hi, I'm Eli 👋
 ### Data Scientist, Life-learner
 
 Welcome to my github page! Here are some of my favorite projects:
